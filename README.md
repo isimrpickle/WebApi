@@ -1,4 +1,4 @@
-# WebApi
+# WebAPI
 Just a simple web api implementation using .NET framework in c# 
 The instructions were:
 build a WebApi, using .NET 8. The WebApi should have a Controller, named "PositionController". The Controller will have 2 endpoints, one named "InsertPosition" and will be HTTP Post, and one named "GetPositions" and will be HTTP GET.
