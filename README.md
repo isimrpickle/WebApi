@@ -20,3 +20,4 @@ The array name will be "positions". Once the position is entered into the databa
 
 The second endpoint will not expect anything from the user, it will simply connect to the base, read from the positions table (SELECT all that is), and return them in JSON format.
 The third endpoint, which will take 2 names (from the positions you have put in the base) and read them from the base, calculate the distance between them (with Haversine), and return it.
+The WebApiTest.zip contains the full implementation of the webAPI with every complementary c# and .net file you're gonna need in order to compile the WebAPI.
